@@ -6,11 +6,13 @@
 
 ```kotlin
 val muddasir = Developer(
-    name     = "Muhammad Muddasir Hussain",
-    role     = "Android Developer",
-    stack    = listOf("Kotlin", "Jetpack Compose", "MVVM", "Hilt", "Java"),
-    status   = "Open to Work",
-    location = "Pakistan"
+    name       = "Muhammad Muddasir Hussain",
+    role       = "Android Developer",
+    experience = "6 years",
+    location   = "Islamabad, Pakistan",
+    stack      = listOf("Kotlin", "Jetpack Compose", "MVVM", "Hilt", "Java"),
+    status     = "Available for Freelance Projects",
+    contact    = "muhammadmuddasir623@gmail.com"
 )
 ```
 
@@ -125,6 +127,8 @@ val muddasir = Developer(
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+> Available for freelance Android projects — feel free to reach out!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muddasirdev&color=0969DA&style=for-the-badge" alt="Profile Views"/>
